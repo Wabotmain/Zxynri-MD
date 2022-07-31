@@ -5,9 +5,9 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6285828764046'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6285799850519'] //ganti pakai nomormu biar bot berfungsi
+global . mods  = [ '62857998505197' ] //ganti pakai nomormu biar bot bekerja
+global.prems = ['6285799850519'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
 global.nameowner = '𝓡𝓪𝓭𝓲𝓽 𝓢𝓾𝓱𝓾'
